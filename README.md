@@ -73,7 +73,8 @@ versioned_sidebars 版本左侧列表
 versions.json   版本管理器  最新版本在最前面 ['0.4','0.3','0.2','0.1']
                                             最新   次级  ---    ---
 
-翻译命令 需要购买token 
+翻译命令 需要购买token 路径  crowdin.yml 这个文件 
+  api_token_env: "我的令牌"   //我的令牌就是需要替换的地方
   npm run write-translations 生成 npm run crowdin upload 上传  npm run crowdin download 下载  
 自动化翻译脚本   设置 CROWDIN_PERSONAL_TOKEN 环境变量
 在构建 Docusaurus 站点之前，在 CI 中调用 npm run crowdin:sync 脚本
