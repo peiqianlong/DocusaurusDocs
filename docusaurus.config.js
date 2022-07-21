@@ -59,7 +59,8 @@ const config = {
         title: 'ThingsPanel',
         logo: {
           alt: 'ThingsPanel',
-          src: 'img/logo.svg',
+          src: 'img/dark.svg',
+          srcDark: 'img/logo.svg',
         },
         items: [
           {
