@@ -1,5 +1,5 @@
-project_id: "528350"
-api_token: "b7e94db8c97d28009149eba1c381867c98031ccbf3cdf6e1b1fce21d54448a183efe92af35f0e712"
+project_id: "你想项目Id"
+api_token: "你的token"
 preserve_hierarchy: true
 
 files:
