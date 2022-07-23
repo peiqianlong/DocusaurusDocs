@@ -165,3 +165,14 @@ versions.json
 如何写文档 或者 Blog
 blog 就去对应的blog文件夹下面  规则按照上面查看
 docs 就去对应的 docs 或者 对应的 versioned_docs  规则按照上面查看
+
+
+运行打包 先翻译 这个不是实时的  npm run crowdin:sync
+然后打包 npm run build 
+让后登陆服务器
+http://104.156.140.42:8888/3c1c1b1a
+
+username: e5gqnzdj
+password: c2e9910c
+
+网址域名下 更换文件
