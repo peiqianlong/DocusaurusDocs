@@ -18,6 +18,7 @@ function HomepageHeader() {
           <Link
             className="button button--secondary button--lg"
             to="/docs/intro">
+              {/* 首页的跳转修改  to是跳转的页面 默认docs页面 */}
             Docusaurus Tutorial - 5min ⏱️
           </Link>
         </div>
